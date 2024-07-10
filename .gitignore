@@ -1,6 +1,3 @@
-x86_build/*
-!x86_build/meta-mylayer/
-
-imx6ull_build/*
-!imx6ull_build/meta-imx6ull-bsp/
-
+*.o
+*.so.*
+demo
